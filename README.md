@@ -6,13 +6,13 @@ SoccerSense is a comprehensive football analysis system that leverages machine l
 
 ## Overview
 
-In this project, you will learn how to:
+In this project, I learned how to:
 
 1. **Detect Objects with YOLOv8**: Utilize Ultralytics YOLOv8, a state-of-the-art object detector, to detect players, referees, and footballs in images and videos.
-2. **Train Custom Object Detectors**: Fine-tune and train your own YOLO model on a custom dataset to enhance detection accuracy.
+2. **Train Custom Object Detectors**: Fine-tune and train my own YOLO model on a custom dataset to enhance detection accuracy.
 3. **Segment Players by T-Shirt Color**: Use KMeans clustering for pixel segmentation to accurately assign players to teams based on their t-shirt colors.
 4. **Track Camera Movement**: Implement optical flow techniques to measure camera movement between frames, crucial for accurate player tracking.
-5. **Perspective Transformation**: Apply OpenCV's perspective transformation to represent the scene's depth and perspective, allowing you to measure player movement in meters rather than pixels.
+5. **Perspective Transformation**: Apply OpenCV's perspective transformation to represent the scene's depth and perspective, allowing me to measure player movement in meters rather than pixels.
 6. **Calculate Speed and Distance**: Measure players' speed and the distance covered on the field using advanced tracking techniques.
 
 ## Project Structure
